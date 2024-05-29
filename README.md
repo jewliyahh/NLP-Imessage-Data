@@ -8,4 +8,8 @@ If you would like to replicate my exact project follow these steps below:
     a. conda create --name iMessage python=3.11
     b. conda activate iMessage
     c. pip install -r requirements.txt
-3. 
+3. change the notebook evniorment to the conda enviorment: https://docs.anaconda.com/ae-notebooks/user-guide/adv-tasks/work-with-environments/#:~:text=Whether%20you%20have%20created%20an,Kernel%20menu%2C%20select%20Change%20Kernel.
+4. Update lines with  # TODO in  stats-for-public.ipynb, run it 
+5. Uopdate lines with  # TODO in text_analysis_public.ipynb, run it
+
+TA-DA !
